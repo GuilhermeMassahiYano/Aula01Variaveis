@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\2 Modulo\\DSII\\ATV1\\ATV1.csproj",
+      "projectUniqueName": "D:\\Guilherme.y\\DSII\\Aula03\\ATV1\\ATV1.csproj",
       "projectName": "ATV1",
-      "projectPath": "E:\\2 Modulo\\DSII\\ATV1\\ATV1.csproj",
+      "projectPath": "D:\\Guilherme.y\\DSII\\Aula03\\ATV1\\ATV1.csproj",
       "packagesPath": "D:\\NugetPackages",
-      "outputPath": "E:\\2 Modulo\\DSII\\ATV1\\obj\\",
+      "outputPath": "D:\\Guilherme.y\\DSII\\Aula03\\ATV1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
